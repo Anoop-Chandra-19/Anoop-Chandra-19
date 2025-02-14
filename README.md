@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anoopchandra Parampalli</h1>
 <h3 align="center">A Grad Student at Northeastern University</h3>
 
-- 🔭 I’m currently working on **Local LLM for Stock Estimation**
+- 🔭 I’m currently working on **Agentic AI**
 
 - 🌱 I’m currently learning **MLOps and LLM Interfacing**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anoopchandra Parampalli</h1>
-<h3 align="center">A Grad Student at Northeastern University</h3>
+<h3 align="center">AI Engineery</h3>
 
 - 🔭 I’m currently working on **Agentic AI**
 

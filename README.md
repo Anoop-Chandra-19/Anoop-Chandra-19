@@ -1,4 +1,4 @@
-# Hi, I'm Anoopchandra Parampalli
+# Hi, I'm Anoopchandra "Anoop" Parampalli
 
 ### Master's Graduate in AI Engineering | Full Stack Developer
 
